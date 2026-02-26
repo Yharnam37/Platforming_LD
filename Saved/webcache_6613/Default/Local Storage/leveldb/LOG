@@ -1,2 +1,3 @@
-2026/02/26-17:53:09.809 7424 Creating DB C:\Users\darko\Documents\Unreal-Git\Platforming_LD\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/02/26-17:53:09.859 7424 Reusing MANIFEST C:\Users\darko\Documents\Unreal-Git\Platforming_LD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/26-22:24:24.209 93d0 Reusing MANIFEST C:\Users\darko\Documents\Unreal-Git\Platforming_LD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/26-22:24:24.219 93d0 Recovering log #3
+2026/02/26-22:24:24.235 93d0 Reusing old log C:\Users\darko\Documents\Unreal-Git\Platforming_LD\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
