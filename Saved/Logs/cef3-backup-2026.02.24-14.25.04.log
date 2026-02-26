@@ -1,0 +1,10 @@
+[30172:28540:0224/125301.440:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30172:23816:0224/125301.684:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[30172:28540:0224/125301.775:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3156:11680:0224/125306.481:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-98A4CC310B445C5CAB016929607AEC06 will be ignored
+[30172:28540:0224/125319.479:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[30172:28540:0224/150153.374:ERROR:device_event_log_impl.cc(196)] [15:01:53.358] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[30172:28540:0224/150153.417:ERROR:device_event_log_impl.cc(196)] [15:01:53.402] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[30172:28540:0224/150731.905:ERROR:device_event_log_impl.cc(196)] [15:06:41.985] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[30172:28540:0224/150731.905:ERROR:device_event_log_impl.cc(196)] [15:06:42.007] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[30172:28540:0224/152504.782:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
